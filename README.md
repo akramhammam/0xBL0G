@@ -6,7 +6,7 @@ This just my blog website where i share my thoughts and career progress. You may
 ## Authors
 
   -
-    [Akram Hammam](https://github.com/akramhammam5) (Account Lost but never Forgotten :( )
+    [Akram Hammam](https://github.com/akramhammam5) {Account Lost but never Forgotten :( }
 
 
 ## License
